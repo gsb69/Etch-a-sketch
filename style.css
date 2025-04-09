@@ -1,0 +1,14 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    width: 512px;
+}
+.cell{
+    width: 32px;
+    height: 32px;
+    background-color: yellow;
+    border: 1px solid black;
+    box-sizing: border-box;
+    
+}
+
